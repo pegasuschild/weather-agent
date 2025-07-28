@@ -56,10 +56,10 @@ Remember to heed the air quality advisory: If you experience any respiratory dis
 - smtplib (for email)
 
 ## Development
-The Colab notebook (`Weather_Agent.ipynb`) contains the development process, including code cells for creating and testing the chatbot in Google Colab.
+The Colab notebook (`Weather_Agent.ipynb`) contains the development process, including code cells for creating and testing the agent in Google Colab.
 
 ## About
-Built by Daniel Young as a portfolio project to showcase Python and Streamlit skills in rapid prototyping for data science education.
+Built by Daniel Young as a portfolio project to showcase applied data science skills in multi-source API integration, data processing, and LLM-driven automation, using a Python-based agent to deliver daily weather and activity recommendations for improving lives.
 
 ## License
 MIT License - feel free to use and modify the code!
