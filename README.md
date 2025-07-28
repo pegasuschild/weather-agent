@@ -37,7 +37,7 @@ Remember to heed the air quality advisory: If you experience any respiratory dis
 
 ## Setup
 
-1. Clone the repository: git clone https://github.com/your-username/weather-agent-databite.git.
+1. Clone the repository: git clone https://github.com/pegasuschild/weather-agent.git.
 
 2. Open weather_agent.ipynb in Google Colab.
 
@@ -56,7 +56,7 @@ Remember to heed the air quality advisory: If you experience any respiratory dis
 - smtplib (for email)
 
 ## Development
-The Colab notebook (`DataBite_Chatbot.ipynb`) contains the development process, including code cells for creating and testing the chatbot in Google Colab.
+The Colab notebook (`Weather_Agent.ipynb`) contains the development process, including code cells for creating and testing the chatbot in Google Colab.
 
 ## About
 Built by Daniel Young as a portfolio project to showcase Python and Streamlit skills in rapid prototyping for data science education.
